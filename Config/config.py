@@ -21,9 +21,9 @@ class TestData:
     BASE_URL = "http://tinybeans.com/"
     
     """ Data for this test. Will eventually be paramaterized. """
-    USER_FIRST_NAME = "Super"
-    USER_LAST_NAME = "Exhausted"
-    USER_EMAIL = "superexhausted@gamesafo1.com"
+    USER_FIRST_NAME = "IdLoveToWork"
+    USER_LAST_NAME = "WithTheTinyBeansTeam"
+    USER_EMAIL = "ToMakeItAn@EvenHappierPlaceForFamilies.com"
     USER_PASSWORD = "" # unused at this point, because no password is created at Sign Up.
     USER_HOMETOWN = "Bega, NSW, Australia"
     USER_CAT1_NAME = "Mrs. Pancakes"
